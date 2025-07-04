@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Thu Jul  3 08:07:23 PM EDT 2025
+Running on Thu Jul  3 08:40:55 PM EDT 2025
 Run by prempeh - () on host
  Static hostname: pc200618385
       Machine ID: 77484aed8a914b528447086f994bad7f
@@ -19,9 +19,9 @@ Network mgmt deleted
 Network lan created
 Network mgmt created
 Launching openwrt
-Retrieving image: Unpack: 100% (2.39GB/s)                                          Retrieving image: Unpack: 100% (2.39GB/s)                                          Launching server1
-Retrieving image: Unpack: 100% (1.93GB/s)                                          Retrieving image: Unpack: 100% (1.93GB/s)                                          inactive
-Pushing /home/prempeh/.ssh/id_ed25519.pub to /home/remoteadmin/.ssh/id_ed25519.pub: 100% (427.35MB/s)                                                                                                      Waiting for server1 restart
+Retrieving image: Unpack: 100% (1.26GB/s)                                          Retrieving image: Unpack: 100% (1.26GB/s)                                          Launching server1
+Retrieving image: Unpack: 100% (1.40GB/s)                                          Retrieving image: Unpack: 100% (1.40GB/s)                                          inactive
+Pushing /home/prempeh/.ssh/id_ed25519.pub to /home/remoteadmin/.ssh/id_ed25519.pub: 100% (423.73MB/s)                                                                                                      Waiting for server1 restart
 # Host server1-mgmt found: line 5
 /home/prempeh/.ssh/known_hosts updated.
 Original contents retained as /home/prempeh/.ssh/known_hosts.old
